@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abdul112107/Leetcode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abdul112107/Leetcode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abdul112107/Leetcode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -21,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abdul112107/Leetcode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
