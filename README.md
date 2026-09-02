@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Abdul112107/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/Abdul112107/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abdul112107/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abdul112107/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abdul112107/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Array
+|  |
+| ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+## String
+|  |
+| ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
