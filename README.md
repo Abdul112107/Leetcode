@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Abdul112107/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abdul112107/Leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abdul112107/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abdul112107/Leetcode/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abdul112107/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abdul112107/Leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -28,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abdul112107/Leetcode/tree/master/0547-number-of-provinces) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abdul112107/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abdul112107/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abdul112107/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
