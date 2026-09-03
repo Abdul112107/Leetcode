@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abdul112107/Leetcode/tree/master/0136-single-number) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abdul112107/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abdul112107/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abdul112107/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
