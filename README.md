@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Abdul112107/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Abdul112107/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Abdul112107/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
