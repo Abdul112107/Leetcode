@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abdul112107/Leetcode/tree/master/0001-two-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abdul112107/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Bipartite Graph
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abdul112107/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Abdul112107/Leetcode/tree/master/0136-single-number) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abdul112107/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
