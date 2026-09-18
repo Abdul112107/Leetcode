@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abdul112107/Leetcode/tree/master/0001-two-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abdul112107/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abdul112107/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abdul112107/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abdul112107/Leetcode/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abdul112107/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abdul112107/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
