@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abdul112107/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Abdul112107/Leetcode/tree/master/0136-single-number) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Abdul112107/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [3524-find-x-value-of-array-i](https://github.com/Abdul112107/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abdul112107/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Abdul112107/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abdul112107/Leetcode/tree/master/0836-rectangle-overlap) |
+| [3524-find-x-value-of-array-i](https://github.com/Abdul112107/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Abdul112107/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abdul112107/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abdul112107/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Abdul112107/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
